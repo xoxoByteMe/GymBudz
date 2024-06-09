@@ -1,5 +1,5 @@
 # GymBudz
 
-Want a workout buddy but don't know how to find one? Say lesss girl. [app name] is designed for women and non-binary "gym-ers" to find gym partners that share similar fitness goals. This app allows you to create your own fitness goals for yourself and interact with communities for motivation and...
+
 ... 
 more description 
